@@ -1,0 +1,16 @@
+config:
+  target: "https://localhost:5001"
+  phases:
+    - duration: 10
+      arrivalRate: 1
+scenarios:
+  - flow:
+      - post:
+          url: "/Authentication"
+          json:
+             login: "heverton.moraes@cea.com.br"
+             password: "hot"
+#      - get:
+#          url: "/News"
+#          json:
+#            hello: "world"

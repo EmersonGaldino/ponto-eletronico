@@ -1,0 +1,287 @@
+[
+  {
+    "Janeiro":{
+      "TotalHours": 168,
+      "TotalExecuting": 168,
+      "Employe": "Essenceit"
+    },
+    "itens": [
+      {
+        "entrada": "2020-01-01 08:44:54",
+        "saidaAlmoco": "2020-01-01 13:12:54",
+        "voltaAlmoco": "2020-01-01 14:09:54",
+        "saida": "2020-01-01 17:23:54"
+      },
+      {
+        "entrada": "2020-01-02 08:44:54",
+        "saidaAlmoco": "2020-01-02 13:12:54",
+        "voltaAlmoco": "2020-01-02 14:09:54",
+        "saida": "2020-01-02 17:23:54"
+      },
+      {
+        "entrada": "2020-01-03 08:44:54",
+        "saidaAlmoco": "2020-01-03 13:12:54",
+        "voltaAlmoco": "2020-01-03 14:09:54",
+        "saida": "2020-01-03 17:23:54"
+      },
+      {
+        "entrada": "2020-01-04 08:44:54",
+        "saidaAlmoco": "2020-01-04 13:12:54",
+        "voltaAlmoco": "2020-01-04 14:09:54",
+        "saida": "2020-01-04 17:23:54"
+      },
+      {
+        "entrada": "2020-01-05 08:44:54",
+        "saidaAlmoco": "2020-01-05 13:12:54",
+        "voltaAlmoco": "2020-01-05 14:09:54",
+        "saida": "2020-01-05 17:23:54"
+      },
+      {
+        "entrada": "2020-01-06 08:00:12",
+        "saidaAlmoco": "2020-01-06 12:12:54",
+        "voltaAlmoco": "2020-01-06 13:20:54",
+        "saida": "2020-01-06 19:55:54"
+      }
+    ]
+  },
+  {
+    "Fevereiro":{
+      "TotalHours": 168,
+      "TotalExecuting": 174,
+      "Employe": "Essenceit"
+    },
+    "itens": [
+      {
+        "entrada": "2020-02-01 08:44:54",
+        "saidaAlmoco": "2020-02-01 13:12:54",
+        "voltaAlmoco": "2020-02-01 14:09:54",
+        "saida": "2020-02-01 17:23:54"
+      },
+      {
+        "entrada": "2020-02-02 08:44:54",
+        "saidaAlmoco": "2020-02-02 13:12:54",
+        "voltaAlmoco": "2020-02-02 14:09:54",
+        "saida": "2020-02-02 17:23:54"
+      },
+      {
+        "entrada": "2020-02-03 08:44:54",
+        "saidaAlmoco": "2020-02-03 13:12:54",
+        "voltaAlmoco": "2020-02-03 14:09:54",
+        "saida": "2020-02-03 17:23:54"
+      },
+      {
+        "entrada": "2020-02-04 08:44:54",
+        "saidaAlmoco": "2020-02-04 13:12:54",
+        "voltaAlmoco": "2020-02-04 14:09:54",
+        "saida": "2020-02-04 17:23:54"
+      },
+      {
+        "entrada": "2020-02-05 08:44:54",
+        "saidaAlmoco": "2020-02-05 13:12:54",
+        "voltaAlmoco": "2020-02-05 14:09:54",
+        "saida": "2020-01-05 17:23:54"
+      },
+      {
+        "entrada": "2020-02-06 08:00:12",
+        "saidaAlmoco": "2020-02-06 12:12:54",
+        "voltaAlmoco": "2020-02-06 13:20:54",
+        "saida": "2020-02-06 19:55:54"
+      },
+      {
+        "entrada": "2020-02-07 08:45:12",
+        "saidaAlmoco": "2020-02-07 12:12:54",
+        "voltaAlmoco": "2020-02-07 13:20:54",
+        "saida": "2020-02-07 21:55:54"
+      }
+    ]
+  },
+  {
+    "Março":{
+      "TotalHours": 168,
+      "TotalExecuting": 178,
+      "Employe": "Essenceit"
+    },
+    "itens":[
+      {
+        "entrada": "Domingo",
+        "saidaAlmoco": "Domingo",
+        "voltaAlmoco": "Domingo",
+        "saida": "Domingo"
+      },
+      {
+        "entrada": "2020-03-02 08:44:54",
+        "saidaAlmoco": "2020-03-02 13:12:54",
+        "voltaAlmoco": "2020-03-02 14:09:54",
+        "saida": "2020-03-02 17:23:54"
+      },
+      {
+        "entrada": "2020-03-03 08:44:54",
+        "saidaAlmoco": "2020-03-03 13:12:54",
+        "voltaAlmoco": "2020-03-03 14:09:54",
+        "saida": "2020-03-03 17:23:54"
+      },
+      {
+        "entrada": "2020-03-04 08:44:54",
+        "saidaAlmoco": "2020-03-04 13:12:54",
+        "voltaAlmoco": "2020-03-04 14:09:54",
+        "saida": "2020-03-04 17:23:54"
+      },
+      {
+        "entrada": "2020-03-05 08:44:54",
+        "saidaAlmoco": "2020-03-05 13:12:54",
+        "voltaAlmoco": "2020-03-05 14:09:54",
+        "saida": "2020-03-05 17:23:54"
+      },
+      {
+        "entrada": "2020-03-06 08:00:12",
+        "saidaAlmoco": "2020-03-06 12:12:54",
+        "voltaAlmoco": "2020-03-06 13:20:54",
+        "saida": "2020-03-06 19:55:54"
+      },
+      {
+        "entrada": "Sabado",
+        "saidaAlmoco": "Sabado",
+        "voltaAlmoco": "Sabado",
+        "saida": "Sabado"
+      },
+      {
+        "entrada": "Domingo",
+        "saidaAlmoco": "Domingo",
+        "voltaAlmoco": "Domingo",
+        "saida": "Domingo"
+      },
+      {
+        "entrada": "2020-03-09 08:00:12",
+        "saidaAlmoco": "2020-03-09 12:12:54",
+        "voltaAlmoco": "2020-03-09 13:20:54",
+        "saida": "2020-03-09 18:55:54"
+      },
+      {
+        "entrada": "2020-03-10 08:00:12",
+        "saidaAlmoco": "2020-03-10 12:12:54",
+        "voltaAlmoco": "2020-03-10 13:20:54",
+        "saida": "2020-03-10 18:55:54"
+      },
+      {
+        "entrada": "2020-03-11 08:00:12",
+        "saidaAlmoco": "2020-03-11 12:12:54",
+        "voltaAlmoco": "2020-03-11 13:20:54",
+        "saida": "2020-03-11 18:55:54"
+      },
+      {
+        "entrada": "2020-03-12 08:00:12",
+        "saidaAlmoco": "2020-03-12 12:12:54",
+        "voltaAlmoco": "2020-03-12 13:20:54",
+        "saida": "2020-03-12 18:55:54"
+      },
+      {
+        "entrada": "2020-03-13 08:00:12",
+        "saidaAlmoco": "2020-03-13 12:12:54",
+        "voltaAlmoco": "2020-03-13 13:20:54",
+        "saida": "2020-03-13 18:55:54"
+      },
+      {
+        "entrada": "Sabado",
+        "saidaAlmoco": "Sabado",
+        "voltaAlmoco": "Sabado",
+        "saida": "Sabado"
+      },
+      {
+        "entrada": "Domingo",
+        "saidaAlmoco": "Domingo",
+        "voltaAlmoco": "Domingo",
+        "saida": "Domingo"
+      },
+      {
+        "entrada": "2020-03-16 08:00:12",
+        "saidaAlmoco": "2020-03-16 12:12:54",
+        "voltaAlmoco": "2020-03-16 13:20:54",
+        "saida": "2020-03-16 18:55:54"
+      },
+      {
+        "entrada": "2020-03-17 08:00:12",
+        "saidaAlmoco": "2020-03-17 12:12:54",
+        "voltaAlmoco": "2020-03-17 13:20:54",
+        "saida": "2020-03-17 18:55:54"
+      },
+      {
+        "entrada": "2020-03-18 08:00:12",
+        "saidaAlmoco": "2020-03-18 12:12:54",
+        "voltaAlmoco": "2020-03-18 13:20:54",
+        "saida": "2020-03-18 18:55:54"
+      },
+      {
+        "entrada": "2020-03-19 08:00:12",
+        "saidaAlmoco": "2020-03-19 12:12:54",
+        "voltaAlmoco": "2020-03-19 13:20:54",
+        "saida": "2020-03-19 18:55:54"
+      },
+      {
+        "entrada": "2020-03-20 08:00:12",
+        "saidaAlmoco": "2020-03-20 12:12:54",
+        "voltaAlmoco": "2020-03-20 13:20:54",
+        "saida": "2020-03-20 18:55:54"
+      },
+      {
+        "entrada": "Sabado",
+        "saidaAlmoco": "Sabado",
+        "voltaAlmoco": "Sabado",
+        "saida": "Sabado"
+      },
+      {
+        "entrada": "Domingo",
+        "saidaAlmoco": "Domingo",
+        "voltaAlmoco": "Domingo",
+        "saida": "Domingo"
+      },
+      {
+        "entrada": "2020-03-23 08:00:12",
+        "saidaAlmoco": "2020-03-23 12:12:54",
+        "voltaAlmoco": "2020-03-23 13:20:54",
+        "saida": "2020-03-23 18:55:54"
+      },
+      {
+        "entrada": "2020-03-24 08:00:12",
+        "saidaAlmoco": "2020-03-24 12:12:54",
+        "voltaAlmoco": "2020-03-24 13:20:54",
+        "saida": "2020-03-24 18:55:54"
+      },
+      {
+        "entrada": "2020-03-25 08:00:12",
+        "saidaAlmoco": "2020-03-25 12:12:54",
+        "voltaAlmoco": "2020-03-25 13:20:54",
+        "saida": "2020-03-25 18:55:54"
+      },
+      {
+        "entrada": "2020-03-26 08:00:12",
+        "saidaAlmoco": "2020-03-26 12:12:54",
+        "voltaAlmoco": "2020-03-26 13:20:54",
+        "saida": "2020-03-26 18:55:54"
+      },
+      {
+        "entrada": "2020-03-27 08:00:12",
+        "saidaAlmoco": "2020-03-27 12:12:54",
+        "voltaAlmoco": "2020-03-27 13:20:54",
+        "saida": "2020-03-27 18:55:54"
+      },
+      {
+        "entrada": "Sabado",
+        "saidaAlmoco": "Sabado",
+        "voltaAlmoco": "Sabado",
+        "saida": "Sabado"
+      },
+      {
+        "entrada": "Domingo",
+        "saidaAlmoco": "Domingo",
+        "voltaAlmoco": "Domingo",
+        "saida": "Domingo"
+      },
+      {
+        "entrada": "2020-03-30 08:00:12",
+        "saidaAlmoco": "2020-03-30 12:12:54",
+        "voltaAlmoco": "2020-03-30 13:20:54",
+        "saida": "2020-03-30 18:55:54"
+      }
+    ]
+  }
+]

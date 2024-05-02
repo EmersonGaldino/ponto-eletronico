@@ -1,0 +1,5 @@
+export const MenuTypes = {
+  MENU_REQUEST: '@menu/MENU_REQUEST',
+  MENU_LOAD_SUCCESS: '@menu/MENU_LOAD_SUCCESS',
+  MENU_LOAD_FAILURE: '@menu/MENU_LOAD_FAILURE',
+};
